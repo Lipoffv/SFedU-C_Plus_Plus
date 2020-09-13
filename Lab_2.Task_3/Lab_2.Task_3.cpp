@@ -43,7 +43,7 @@ int factorial(int n)
 
 inline void max_min_2()
 {
-    int a, b, c;
+    int a, b;
     int min;
     int max;
     cout << "\nВведите первое число: "; cin >> a;
